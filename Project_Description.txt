@@ -1,0 +1,4 @@
+﻿Title: Sandbox Test Code
+Overview: Scratchpad for quick Arduino and ESP8266/ESP32 tests and pinout experiments.
+Hardware: Varies per sketch; use as temporary staging before promoting into main projects.
+Notes: Empty folders mark topics (Arduino, ESP) ready for future prototype drops.
