@@ -1,5 +1,7 @@
 ﻿# Sandbox Test Code
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Learning-lightgrey) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Scratchpad for quick Arduino and ESP8266/ESP32 tests and pinout experiments.
 
 ## Original Folder
